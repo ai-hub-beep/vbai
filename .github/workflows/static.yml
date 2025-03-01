@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Build with AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Vehicle Build with AI</h1>
+        <p>Your sandbox vehicle-building experience, powered by AI.</p>
+    </header>
+    
+    <section id="about">
+        <h2>About</h2>
+        <p>
+            Vehicle Build with AI (vbwai.io) is an interactive platform where you can build and control virtual armored vehicles.
+            The AI will handle all movement, targeting, tactics, and decision-making to bring your creations to life in a grid-based sandbox environment.
+        </p>
+    </section>
+    
+    <section id="features">
+        <h2>Features</h2>
+        <ul>
+            <li>AI-powered vehicle control for movement, targeting, and tactics.</li>
+            <li>Grid-snap building system for precise vehicle design.</li>
+            <li>Customizable modules for vision, movement, weapons, and power.</li>
+            <li>Fully interactive sandbox environment for testing and combat.</li>
+        </ul>
+    </section>
+    
+    <section id="download">
+        <h2>Download</h2>
+        <p>
+            Ready to start building? Download the latest version and begin creating your AI-controlled vehicles.
+        </p>
+        <button onclick="window.location.href='your-download-link-here'">Download Now</button>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Vehicle Build with AI. All rights reserved.</p>
+    </footer>
+</body>
+</html>
